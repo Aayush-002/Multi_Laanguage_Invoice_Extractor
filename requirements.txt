@@ -1,3 +1,6 @@
 langchain
 PyPDf2
 chromadb
+streamlit
+google-generativeai
+python-dotenv
